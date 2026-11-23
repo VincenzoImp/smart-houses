@@ -65,3 +65,7 @@ Phase 1 rewrites `datas/energy.60.csv`, the `new_profiles.csv` files and the res
 ## Authors
 
 Deborah Dore ([deborahdore](https://github.com/deborahdore)) and Vincenzo Imperati ([VincenzoImp](https://github.com/VincenzoImp)).
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
